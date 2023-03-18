@@ -7,8 +7,8 @@ Course: cis106
 # Week Report 3 
 
 ## summary of presentations 
-
-### Introduction to Linux
+The linux has different an open sources operating system. The virtualization relies on software to simulate hardware functionality and create a virtual computer system. Desktop environment a complete ecosystem of software and resources providing a homogeneous graphical user experiences. The managing software is help for automating project planning amd scheduling.
+## Introduction to Linux
  
  **What is an operating system?**
 An operating provides all fundamental software features of a computer. An OS enables you to use the computer's hardware providing you the basic tools that make the computer useful. All of those features relay on the OS's kernel. Other OS features are owed to additional programs that run atop the kernel.
