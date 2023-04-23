@@ -9,6 +9,7 @@ course: cis106
 
 ## Question 1
 ![q](../lab5/q1.1.png)
+![Q](q1.2.png)
 ## Question 2
 ![q](../lab5/q2.1.png)
 ## Question 3
