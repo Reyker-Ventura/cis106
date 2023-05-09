@@ -31,6 +31,21 @@ semester: spring 2023
       * cat todo.lst
 * Display the content of a file using absolute path
       * cat ~/Documents/todo.lst 
+  * how to see the content a file:
+    * cat file etc/passwd
+  * how to see the content of file with line numbers:
+    * cat -n file /etc passwd
+  *how to see the content of a file with ending line character
+    *cat -E file -E /etc/passwd
+    * command Output:
+
+* gnome-initial-setup:x:125:65534::/run/gnome-initial-setup/:/bin/false$
+hplip:x:126:7:HPLIP system user,,,:/run/hplip:/bin/false$
+gdm:x:127:133:Gnome Display Manager:/var/lib/gdm3:/bin/false$
+rrventura:x:1000:1000:Reyker,,,:/home/rrventura:/bin/bash$
+fwupd-refresh:x:128:136:fwupd-refresh user,,,:/run/systemd:/usr/sbin/nologin$
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false$
+_flatpak:x:129:138:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin$
 
 
 ## cp
